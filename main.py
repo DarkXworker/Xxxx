@@ -4,7 +4,7 @@ import re
 import time
 import threading
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN'  # 🔁 Replace this with your actual token
+BOT_TOKEN = '7587100433:AAE-NwDzxcij0GVMcmYa4sqbfSMpIBP3-AY'  # 🔁 Replace this with your actual token
 bot = telebot.TeleBot(BOT_TOKEN)
 
 DELETE_DELAY = 60  # Seconds for deleting GIFs/stickers
